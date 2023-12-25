@@ -14,7 +14,7 @@ Three Mini Python Projects.
 | Tasks             | Description                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | `Dice Roll Game` | Write a python code to allow multi-users play the dice roll game. |
-| `Word Lib`| Write a python code to allow users edit some specific terms in ***story.txt* |
+| `Word Lib`| Write a python code to allow users edit some specific terms in ***story.txt*** |
 | `Math Quiz Game` | Write a python code to provide math questions to user(s). |
 
 ## 🚀 Tech Stack
